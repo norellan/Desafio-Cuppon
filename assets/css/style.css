@@ -1,0 +1,48 @@
+h3,
+p {
+  font-family: "Roboto Serif", serif;
+}
+.navbar-brand {
+  margin-left: 5px;
+}
+strong {
+  width: 82px;
+  height: 24px;
+}
+
+h6 {
+  font-family: "Roboto Serif", serif;
+  color: gray;
+  text-justify: auto;
+}
+
+.oferta {
+  color: gray;
+}
+
+button {
+  font-family: "Roboto Serif", serif !important;
+}
+
+a:hover {
+  color: rgb(11, 73, 73) !important;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  padding-right: 20px;
+}
+
+.banner {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.text-center {
+  padding-top: 24px;
+}
+
+.banner-img {
+  width: 100%;
+}
